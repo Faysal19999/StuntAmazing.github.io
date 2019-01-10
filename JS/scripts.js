@@ -5,27 +5,27 @@ console.log('ready!');
 //IF user clicks the base option
 $(".itemholder2").click(function(event){
 event.preventDefault();
-document.getElementById("shoestyle1").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/redfront.png')"; 
-document.getElementById("shoestyle2").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/blackfront.png')";
-document.getElementById("shoestyle3").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/colouredfront.png')";
-document.getElementById("shoestyle4").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/greyfront.png')";
+document.getElementById("shoestyle1").style.backgroundImage = "url('../ASSETS/Customisable shoes/redfront.png')"; 
+document.getElementById("shoestyle2").style.backgroundImage = "url('../ASSETS/Customisable shoes/blackfront.png')";
+document.getElementById("shoestyle3").style.backgroundImage = "url('../ASSETS/Customisable shoes/colouredfront.png')";
+document.getElementById("shoestyle4").style.backgroundImage = "url('../ASSETS/Customisable shoes/greyfront.png')";
 });
 
 //IF user clicks the heel option
 $(".itemholder3").click(function(event){
 event.preventDefault();
-document.getElementById("shoestyle1").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/redheel.png')"; 
-document.getElementById("shoestyle2").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/blackheel.png')";
-document.getElementById("shoestyle3").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/purpleheel.png')";
-document.getElementById("shoestyle4").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/greenheel.png')";
+document.getElementById("shoestyle1").style.backgroundImage = "url('../ASSETS/Customisable shoes/redheel.png')"; 
+document.getElementById("shoestyle2").style.backgroundImage = "url('../ASSETS/Customisable shoes/blackheel.png')";
+document.getElementById("shoestyle3").style.backgroundImage = "url('../ASSETS/Customisable shoes/purpleheel.png')";
+document.getElementById("shoestyle4").style.backgroundImage = "url('../ASSETS/Customisable shoes/greenheel.png')";
 });
 //IF user clicks the oversole option
 $(".itemholder4").click(function(event){
 event.preventDefault();
-document.getElementById("shoestyle1").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/redoversole.png')"; 
-document.getElementById("shoestyle2").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/blackoversole.png')";
-document.getElementById("shoestyle3").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/yellowoversole.png')";
-document.getElementById("shoestyle4").style.backgroundImage = "url('../root/ASSETS/Customisable shoes/blueoversole.png')";
+document.getElementById("shoestyle1").style.backgroundImage = "url('../ASSETS/Customisable shoes/redoversole.png')"; 
+document.getElementById("shoestyle2").style.backgroundImage = "url('../ASSETS/Customisable shoes/blackoversole.png')";
+document.getElementById("shoestyle3").style.backgroundImage = "url('../ASSETS/Customisable shoes/yellowoversole.png')";
+document.getElementById("shoestyle4").style.backgroundImage = "url('../ASSETS/Customisable shoes/blueoversole.png')";
 });
 //IF user clicks the lace option
 
